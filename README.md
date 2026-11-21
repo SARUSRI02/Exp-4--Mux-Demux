@@ -20,7 +20,7 @@ Boolean Functions
 ## **Testbench Program
 
 
-
+```
 ## Truth Table
 
 ### 2:1 Multiplexer
